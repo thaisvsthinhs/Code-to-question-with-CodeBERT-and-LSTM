@@ -1,0 +1,4 @@
+string property = this . property ; property = this -> property ; string property = this . getproperty (); property = this -> getproperty ();
+object object = getmylist (); list < integer > list = ( list < integer >) object ;
+myint . tostring (); int cannot be dereferenced
+public class myclassmock extends myclass { public myclassmock () { try { super ( 0 ); } catch ( exception e ) { throw new runtimeexception ( e ); } } // mocked methods } public class myclassmock extends myclass { public static myclassmock construct () { try { return new myclassmock (); } catch ( exception e ) { throw new runtimeexception ( e ); } } public myclassmock () throws exception { super ( 0 ); } // mocked methods }

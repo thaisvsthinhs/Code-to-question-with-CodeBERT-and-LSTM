@@ -1,0 +1,1 @@
+how would you access object properties from within an object method ?
